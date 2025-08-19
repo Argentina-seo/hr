@@ -1,0 +1,10 @@
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Системные файлы
+*.iml
+*.swp
+*.DS_Store
